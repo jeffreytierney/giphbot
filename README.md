@@ -5,7 +5,7 @@ A Giphy plugin for Hubot
 
 typing:
 
-giphy <term>
+giphy {search term}
 
 will return a randomly selected image from a giphy search for <term> (or a message saying that no images were found)
 
