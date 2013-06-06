@@ -3,11 +3,8 @@ giphbot
 
 A Giphy plugin for Hubot
 
-typing:
-
-giphy {search term}
-
-will return a randomly selected image from a giphy search for <term> (or a message saying that no images were found)
+usage:
+giphy {search term} - returns a randomly selected image from the results of a giphy search for <term> (or a message saying that no images were found)
 
 To get up and running, you will need to set an environment variable of:
 HUBOT_GIPHY_API_KEY 
